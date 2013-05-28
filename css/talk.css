@@ -55,6 +55,48 @@ section {
 .slide-4 {
     background-image: url('../images/japanmap.png');
 }
+
+.slide-8 {
+    background-image: url('../images/islands1.png');
+}
+
+.slide-9 {
+    background-image: url('../images/islands2.png');
+}
+
+.slide-10 {
+    background-image: url('../images/islands3.png');
+}
+
+.slide-11 {
+    background-image: url('../images/islands4.png');
+}
+
+.slide-20 {
+    background-image: url('../images/lego-vikings.jpg');
+}
+
+.slide-21 {
+    background-image: url('../images/happydance.gif');
+    background-position: left center;
+}
+
+.slide-24 {
+    background-image: url('../images/islands5.png');
+}
+
+.slide-25 {
+    background-image: url('../images/islands6.png');
+}
+
+.slide-26 {
+    background-image: url('../images/islands7.png');
+}
+
+.slide-27 {
+    background-image: url('../images/notebooks.jpg');
+}
+
 .exit1 {
     background-image: url('../images/westalkexitmob.png');
     background-position: -3em 0;
