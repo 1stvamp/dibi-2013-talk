@@ -34,7 +34,7 @@ ul {
 section {
     background-repeat: no-repeat;
     background-position: left 0;
-    margin-top: 10%;
+    margin-top: 5%;
     width: 100%;
 }
 
@@ -52,75 +52,9 @@ section {
     background-position: -3em 0;
 }
 
-.slide-3 {
-    background-image: url('../images/westalkhyperwhat.png');
-}
-
 .slide-4 {
-    background-image: url('../images/westalknoreally.png');
+    background-image: url('../images/japanmap.png');
 }
-
-.slide-5 {
-    background-image: url('../images/westalkwhatsnew.png');
-    background-position: -3em 0;
-}
-
-.slide-6 {
-    background-image: url('../images/westalkarchi.png');
-    background-position: -3em 0;
-}
-
-.slide-7 {
-    background-image: url('../images/westalkservices.png');
-}
-
-.slide-8 {
-    background-image: url('../images/westalkapiweb.png');
-    background-position: -4em 0;
-}
-
-.slide-9 {
-    background-image: url('../images/westalkbraveworld.png');
-}
-
-.slide-11 {
-    background-image: url('../images/westalkwhatabout.png');
-    background-position: 0 -2em;
-}
-
-.slide-15 {
-    background-image: url('../images/westalkjanebutton.png');
-}
-
-.slide-17 {
-    background-image: url('../images/1sand0s.png');
-    background-position: 4em 5em;
-}
-
-.slide-18 {
-    background-image: url('../images/proxies.png');
-    background-position: 0 -2em;
-}
-
-.slide-18 pre {
-    margin-top: 20%;
-    margin-left: 25em;
-    width: 20em;
-}
-
-.slide-21 {
-    background-image: url('../images/westalkwebapi.png');
-    background-position: 0 3em;
-}
-
-.slide-23 {
-    background-image: url('../images/barium.jpg');
-}
-
-.slide-26 {
-    background-image: url('../images/westalkskyhooktornado.png');
-}
-
 .exit1 {
     background-image: url('../images/westalkexitmob.png');
     background-position: -3em 0;
