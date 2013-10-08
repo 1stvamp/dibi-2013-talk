@@ -72,6 +72,21 @@ section {
     background-image: url('../images/islands4.png');
 }
 
+.slide-12 {
+    background-image: url('../images/westalkbuildsteps.png');
+    background-position: -3em 0;
+}
+
+.slide-16 {
+    background-image: url('../images/westalkpuppet.png');
+    background-position: -3em 0;
+}
+
+.slide-19 {
+    background-image: url('../images/westalkbuildfail.png');
+    background-position: -3em 0;
+}
+
 .slide-20 {
     background-image: url('../images/lego-vikings.jpg');
 }
@@ -79,6 +94,10 @@ section {
 .slide-21 {
     background-image: url('../images/happydance.gif');
     background-position: left center;
+}
+
+.slide-23 {
+    background-image: url('../images/westalklessonslearned.png');
 }
 
 .slide-24 {
